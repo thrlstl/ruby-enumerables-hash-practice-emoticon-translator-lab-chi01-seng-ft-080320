@@ -1,17 +1,20 @@
 emoticons = {
-  :angel => {},
+  :angel => {
+    :english =>"",
+    :japanese =>""
+  },
   :angry => {},
   :bored => {},
   :confused => {},
-  embarrassed
-  fish
-  glasses  
-  grinning 
-  happy
-  kiss
-  sad
-  surprised
-  wink
+  :embarrassed => {},
+  :fish  => {},
+  :glasses => {},  
+  :grinning => {}, 
+  :happy => {},
+  :kiss => {},
+  :sad => {},
+  :surprised => {},
+  :wink => {}
   }
 
 
