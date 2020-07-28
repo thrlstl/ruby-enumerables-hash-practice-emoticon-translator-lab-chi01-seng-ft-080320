@@ -1,19 +1,19 @@
 emoticons = {
   :angel => {
-    :english =>"",
-    :japanese =>""
+    :english =>
+    :japanese =>
   },
   :angry => {
-    :english =>"",
-    :japanese =>""
+    :english =>">:(",
+    :japanese =>"ヽ(ｏ`皿′ｏ)ﾉ"
   },
   :bored => {
-    :english =>"",
-    :japanese =>""
+    :english =>":O",
+    :japanese =>"(ΘεΘ;)"
   },
   :confused => {
-    :english =>"",
-    :japanese =>""
+    :english =>"%)",
+    :japanese =>"(゜.゜)"
   },
   :embarrassed => {
     :english =>"",
@@ -61,9 +61,7 @@ emoticons = {
 
 
 
-
-
-angel:
+:angel
   - "O:)"      
   - "☜(⌒▽⌒)☞"
 angry:
