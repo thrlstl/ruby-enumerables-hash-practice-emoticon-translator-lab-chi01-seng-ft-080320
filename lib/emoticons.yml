@@ -3,18 +3,54 @@ emoticons = {
     :english =>"",
     :japanese =>""
   },
-  :angry => {},
-  :bored => {},
-  :confused => {},
-  :embarrassed => {},
-  :fish  => {},
-  :glasses => {},  
-  :grinning => {}, 
-  :happy => {},
-  :kiss => {},
-  :sad => {},
-  :surprised => {},
-  :wink => {}
+  :angry => {
+    :english =>"",
+    :japanese =>""
+  },
+  :bored => {
+    :english =>"",
+    :japanese =>""
+  },
+  :confused => {
+    :english =>"",
+    :japanese =>""
+  },
+  :embarrassed => {
+    :english =>"",
+    :japanese =>""
+  },
+  :fish  => {
+    :english =>"",
+    :japanese =>""
+  },
+  :glasses => {
+    :english =>"",
+    :japanese =>""
+  },  
+  :grinning => {
+    :english =>"",
+    :japanese =>""
+  }, 
+  :happy => {
+    :english =>"",
+    :japanese =>""
+  },
+  :kiss => {
+    :english =>"",
+    :japanese =>""
+  },
+  :sad => {
+    :english =>"",
+    :japanese =>""
+  },
+  :surprised => {
+    :english =>"",
+    :japanese =>""
+  },
+  :wink => {
+    :english =>"",
+    :japanese =>""
+  }
   }
 
 
