@@ -1,7 +1,7 @@
 emoticons = {
   :angel => {
-    :english =>
-    :japanese =>
+    :english =>"O:)",
+    :japanese =>"☜(⌒▽⌒)☞"
   },
   :angry => {
     :english =>">:(",
@@ -16,40 +16,40 @@ emoticons = {
     :japanese =>"(゜.゜)"
   },
   :embarrassed => {
-    :english =>"",
-    :japanese =>""
+    :english =>":$",
+    :japanese =>"(#^.^#)"
   },
   :fish  => {
-    :english =>"",
-    :japanese =>""
+    :english =>"><>",
+    :japanese =>">゜))))彡"
   },
   :glasses => {
-    :english =>"",
-    :japanese =>""
+    :english =>"8D",
+    :japanese =>"(^0_0^)"
   },  
   :grinning => {
-    :english =>"",
-    :japanese =>""
+    :english =>"=D",
+    :japanese =>"(￣ー￣)"
   }, 
   :happy => {
-    :english =>"",
-    :japanese =>""
+    :english =>":)",
+    :japanese =>"(＾ｖ＾)"
   },
   :kiss => {
-    :english =>"",
-    :japanese =>""
+    :english =>":*",
+    :japanese =>"(*^3^)/~☆"
   },
   :sad => {
-    :english =>"",
-    :japanese =>""
+    :english =>":'(",
+    :japanese =>"(Ｔ▽Ｔ)"
   },
   :surprised => {
-    :english =>"",
-    :japanese =>""
+    :english =>":o",
+    :japanese =>"o_O"
   },
   :wink => {
-    :english =>"",
-    :japanese =>""
+    :english =>";)",
+    :japanese =>"(^_-)"
   }
   }
 
@@ -61,42 +61,44 @@ emoticons = {
 
 
 
-:angel
-  - "O:)"      
-  - "☜(⌒▽⌒)☞"
-angry:
-  - ">:("
-  - "ヽ(ｏ`皿′ｏ)ﾉ"
-bored:
-  - ":O"
-  - "(ΘεΘ;)"
-confused:
-  - "%)"
-  - "(゜.゜)"
-embarrassed:
-  - ":$" 
-  - "(#^.^#)"
-fish:
-  - "><>"
-  - ">゜))))彡"
-glasses:
-  - "8D"
-  - "(^0_0^)"
-grinning:
-  - "=D"
-  - "(￣ー￣)"
-happy:
-  - ":)"
-  - "(＾ｖ＾)"
-kiss:
-  - ":*"
-  - "(*^3^)/~☆"
-sad:
-  - ":'("
-  - "(Ｔ▽Ｔ)"
-surprised:
-  - ":o"
-  - "o_O"
-wink:
-  - ";)"
-  - "(^_-)"
+
+
+# angel:
+#   - "O:)"      
+#   - "☜(⌒▽⌒)☞"
+# angry:
+#   - ">:("
+#   - "ヽ(ｏ`皿′ｏ)ﾉ"
+# bored:
+#   - ":O"
+#   - "(ΘεΘ;)"
+# confused:
+#   - "%)"
+#   - "(゜.゜)"
+# embarrassed:
+#   - ":$" 
+#   - "(#^.^#)"
+# fish:
+#   - "><>"
+#   - ">゜))))彡"
+# glasses:
+#   - "8D"
+#   - "(^0_0^)"
+# grinning:
+#   - "=D"
+#   - "(￣ー￣)"
+# happy:
+#   - ":)"
+#   - "(＾ｖ＾)"
+# kiss:
+#   - ":*"
+#   - "(*^3^)/~☆"
+# sad:
+#   - ":'("
+#   - "(Ｔ▽Ｔ)"
+# surprised:
+#   - ":o"
+#   - "o_O"
+# wink:
+#   - ";)"
+#   - "(^_-)"
