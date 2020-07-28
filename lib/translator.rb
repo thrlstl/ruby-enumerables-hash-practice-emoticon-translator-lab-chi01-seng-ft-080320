@@ -4,7 +4,7 @@ def load_library
   # code goes here
 require 'yaml'
 emoticons = YAML.load_file('emoticons.yml')
-puts emoticons.inspect
+puts emoticons.inspect[:happy][:english][:japanese]
 end
 
 def get_japanese_emoticon
